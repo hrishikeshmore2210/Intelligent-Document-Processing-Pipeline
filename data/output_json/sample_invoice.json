@@ -1,0 +1,15 @@
+{
+    "vendor": [
+        "Tech Supplies Co."
+    ],
+    "invoice_date": [
+        "March 10, 2024",
+        "March 30, 2024"
+    ],
+    "total_amount": [
+        [
+            "Amount Due",
+            "3300.00"
+        ]
+    ]
+}

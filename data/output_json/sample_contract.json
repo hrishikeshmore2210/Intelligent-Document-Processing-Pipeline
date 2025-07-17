@@ -1,0 +1,22 @@
+{
+    "parties": [
+        "AlphaTech Ltd., located at 123 Main Street, Dublin,",
+        "BetaCorp Inc"
+    ],
+    "effective_date": [
+        "January 1, 2024"
+    ],
+    "termination_date": [
+        "December 31, 2024"
+    ],
+    "clauses": {
+        "payment_terms": "Payment terms are net 30 days from invoice date.",
+        "termination": "Either party may terminate this agreement with 30 days' written notice."
+    },
+    "risk_analysis": {
+        "risk_score": 0.5,
+        "risky_clauses": [
+            "termination"
+        ]
+    }
+}
